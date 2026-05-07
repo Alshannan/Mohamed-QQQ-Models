@@ -1,0 +1,4 @@
+model,horizon,directional_accuracy,n
+mohamed_v3_cls,t+1,0.5452609158679447,939
+mohamed_v3_cls,t+3,0.5548455804046858,939
+mohamed_v3_cls,t+5,0.4174653887113951,939
